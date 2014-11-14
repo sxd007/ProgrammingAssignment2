@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## to make a matrix to cache the inverse matrix
 
-## Write a short comment describing this function
+## a function to set up a list that set matrix, get matrix, set inverse matrix and get inverse matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
